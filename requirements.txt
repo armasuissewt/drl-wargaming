@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+ray[default,rllib]
+tensorflow
+tensorboard
+gymnasium
+pandas
+matplotlib
+tqdm
+cartopy
+scipy
+geographiclib
+pycairo
+gputil
+numpy
+pyyaml

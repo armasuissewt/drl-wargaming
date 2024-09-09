@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Del Rio
+    given-names: Giacomo
+  - family-names: Szehr
+    given-names: Oleg
+  - family-names: Antonucci
+    given-names: Alessandro
+  - family-names: Sommer
+    given-names: Matthias
+  - family-names: Ruëgsegger
+    given-names: Michael
+title: "Deep Reinforcement Learning in Wargaming"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: UNKNOWN
+date-released: "2024-09-09"
+license: MIT
+repository-code: "https://github.com/armasuissewt/drl-wargaming"
+keywords:
+ - Wargaming
+ - Deep Reinforcement Learning
+ - "Command: Modern Operations"
+ - Proximal Policy Optimisation
+ - Deep Q-Network
+ - Monte Carlo Tree Search
+ - AlphaZero
+references:
+  - authors:
+      - family-names: Del Rio
+        given-names: Giacomo
+      - family-names: Szehr
+        given-names: Oleg
+      - family-names: Antonucci
+        given-names: Alessandro
+      - family-names: Sommer
+        given-names: Matthias
+      - family-names: Ruëgsegger
+        given-names: Michael
+    doi: UNKNOWN
+    journal: UNKNOWN
+    month: UNKNOWN
+    title: "Deep Reinforcement Learning in Wargaming"
+    type: article
+    volume: UNKNOWN
+    number: UNKNOWN
+    year: UNKNOWN
+    publisher: UNKNOWN
